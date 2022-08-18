@@ -1,5 +1,8 @@
 # Rivera
 
+## Cloning of project
+### Clone the repo on your local computer so that the project directory is created locally
+
 ## Installation of node modules
 ### First go to terminal and then move to the project directory and enter the command -
 ## npm install
